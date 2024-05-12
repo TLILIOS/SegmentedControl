@@ -13,6 +13,7 @@
 		57A48B6E2BEE0475000529BF /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 57A48B6D2BEE0475000529BF /* Base */; };
 		57A48B702BEE0477000529BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57A48B6F2BEE0477000529BF /* Assets.xcassets */; };
 		57A48B732BEE0477000529BF /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 57A48B722BEE0477000529BF /* Base */; };
+		57A48B7B2BEE7DB1000529BF /* SecendViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A48B7A2BEE7DB1000529BF /* SecendViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		57A48B6F2BEE0477000529BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57A48B722BEE0477000529BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57A48B742BEE0477000529BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57A48B7A2BEE7DB1000529BF /* SecendViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecendViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				57A48B662BEE0475000529BF /* AppDelegate.swift */,
 				57A48B682BEE0475000529BF /* SceneDelegate.swift */,
 				57A48B6A2BEE0475000529BF /* ViewController.swift */,
+				57A48B7A2BEE7DB1000529BF /* SecendViewController.swift */,
 				57A48B6C2BEE0475000529BF /* Main.storyboard */,
 				57A48B6F2BEE0477000529BF /* Assets.xcassets */,
 				57A48B712BEE0477000529BF /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				57A48B6B2BEE0475000529BF /* ViewController.swift in Sources */,
 				57A48B672BEE0475000529BF /* AppDelegate.swift in Sources */,
+				57A48B7B2BEE7DB1000529BF /* SecendViewController.swift in Sources */,
 				57A48B692BEE0475000529BF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
